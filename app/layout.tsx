@@ -16,9 +16,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Hack with DSC — Proyecto de charlas y talleres',
+  title: 'Hack with DSC — Del código al siguiente nivel',
   description:
-    'Hack with DSC es un proyecto del Developer Student Club: una serie de charlas y talleres para aprender, construir y conectar con la comunidad de estudiantes desarrolladores.',
+    'Talleres, ponencias y hackathons del DSC PUCP para aprender, construir software real y crecer en comunidad.',
   generator: 'v0.app',
   icons: {
     icon: [
